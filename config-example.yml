@@ -1,0 +1,4 @@
+log: warn
+baidu:  # 百度翻译配配置，从百度翻译开放平台获取 http://api.fanyi.baidu.com
+  appid: "baiduappid" # 百度通用翻译API应用ID
+  secret: "baidusecret" # 百度通用翻译API密钥

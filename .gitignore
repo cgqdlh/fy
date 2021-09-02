@@ -1,0 +1,30 @@
+bin/
+*.exe
+.env
+*.log
+# Dependency directories 
+/vendor/
+
+.DS_Store
+
+*.dll
+*.so
+*.dylib
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+*.sublime-workspace
+*.sublime-project
+
+
+# idea
+.idea
+
+# Vim
+.vim
+
+# VSCode
+.vscode
